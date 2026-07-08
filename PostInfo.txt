@@ -1,0 +1,37 @@
+========== STELLAR MOD MANAGER ==========
+
+Thank you for installing my mod manager for Stellar Drive! 
+
+Getting Started:
+1. Launch the application.
+2. Upon first launch, you will be prompted to select your game installation folder.
+3. If you have not installed MelonLoader yet, the manager can handle that for you automatically!
+4. Once setup is complete, you can browse, install, and manage your mods using the "Online" and "Installed" tabs.
+
+Community Support:
+- Please report issues or suggest features directly on my GitHub: https://github.com/jollyname/StellarModManager
+
+License:
+This software is provided under the MIT License. A copy of the license is included in the installation folder.
+
+Enjoy the game!
+
+========== STELLAR MOD MANAGER - RU ==========
+
+Спасибо, что установили менеджер модов для Stellar Drive!
+
+Начало работы:
+1. Запустите приложение.
+2. При первом запуске вам будет предложено выбрать папку, в которую установлена ​​игра.
+3. Если вы еще не установили MelonLoader, менеджер сделает это за вас автоматически!
+4. После завершения настройки вы сможете просматривать, устанавливать и управлять модами, используя вкладки «Онлайн» и «Установленные».
+
+Поддержка сообщества:
+- Пожалуйста, сообщайте о проблемах или предлагайте новые функции непосредственно на моей странице в GitHub: https://github.com/jollyname/StellarModManager
+
+Лицензия:
+Данное программное обеспечение предоставляется на условиях лицензии MIT. Копия лицензии находится в папке установки.
+
+Приятной игры!
+
+P.S - Это не официальный перевод данной программы от меня Discord: @modpc.q
